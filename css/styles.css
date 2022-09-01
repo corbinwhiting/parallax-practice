@@ -1,0 +1,33 @@
+main{
+    font-family: 'Permanent Marker', cursive;
+}
+section{
+    font-family: 'Aboreto', cursive;
+}
+main, section{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background-attachment: fixed;
+}
+
+.jumbotron-1{
+    background-image: url(https://images.unsplash.com/photo-1470813740244-df37b8c1edcb?ixlib=rb-1.2.1);
+    background-position: center;
+}
+
+.jumbotron-2{
+    background-image: url(https://images.unsplash.com/photo-1454789548928-9efd52dc4031?ixlib=rb-1.2.1);
+    background-position: center;
+}
+
+.jumbotron-3{
+    background-image: url(https://images.unsplash.com/photo-1537420327992-d6e192287183?ixlib=rb-1.2.1);
+    background-position: center;
+}
+
+.jumbotron-4{
+    background-image: url(https://images.unsplash.com/photo-1462331940025-496dfbfc7564?ixlib=rb-1.2.1);
+    background-position: center;
+}
